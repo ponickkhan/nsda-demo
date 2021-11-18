@@ -42,7 +42,7 @@ $ npm install
 ### Test
 ``` bash
 
-``` bash
+
 # back to laravel directory
 $ cd ../laravel
 
@@ -53,3 +53,14 @@ $ cd ../coreui
 
 $ npm run serve
 ```
+
+### When you have project open in browser
+
+Credentials:
+
+* E-mail: _admin@admin.com_
+* Password: _password_
+
+This user has roles: _user_ and _admin_
+
+--- 
